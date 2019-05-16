@@ -26,3 +26,9 @@ or Telegram:
 Discuss with Developers:
 
   Discourse: https://discourse.mozilla-community.org/c/b2g-os-participation
+
+Ressurected from Firefox OS B2G into a new way of Web Side.
+
+New Options To be Added:
+From: https://www.gleentech.com
+Email: pdvicente@gleentech.com
